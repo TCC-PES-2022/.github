@@ -1,4 +1,4 @@
-## Welcome to ARIEL project
+## Welcome to project ARIEL
 
 ARIEL is an ARINC-615A based DataLoader application and here you'll find everything you need to build and run the project.
 
